@@ -7,7 +7,7 @@ READ ME
 
 ###Running script
 
-Before running the script be sure change the three global variables if they does not match your environment. 
+Before running the script be sure to change the three global variables if they does not match your environment. 
 
 ```R
 ## Path to data folder or path inside working folder
